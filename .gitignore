@@ -1,0 +1,5 @@
+data/
+*.sqlite*
+.env*
+private*
+node_modules/
